@@ -1,0 +1,6 @@
+name = "Tony Stark"
+
+print("T" in name)
+
+
+#boolan true false 
